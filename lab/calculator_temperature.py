@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # fahrenheit = float(input("Enter temperature value : "))
 # celsius = float(fahrenheit - 32) * .5556
 #
@@ -45,3 +46,9 @@ if x >= 0:
     print("x is positive.")
 else:
     print("x is not positive.")
+=======
+fahrenheit = float(input("Enter temperature value : "))
+celsius = float(fahrenheit - 32) * .5556
+
+print("The temperature is ", celsius)
+>>>>>>> origin/master

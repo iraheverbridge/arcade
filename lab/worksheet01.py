@@ -39,6 +39,7 @@
 #
 # print(a)
 
+<<<<<<< HEAD
 # value = int(input("Enter your age : "))
 
 a = 6
@@ -51,3 +52,6 @@ if b > a:
     print("b is greater than a")
 
 print("Done")
+=======
+value = int(input("Enter your age : "))
+>>>>>>> origin/master
