@@ -6,3 +6,4 @@ gallon_used = float(input("Enter gallon used: "))
 mpg = miles_driven/gallon_used
 
 print("The MPG is ", mpg)
+
